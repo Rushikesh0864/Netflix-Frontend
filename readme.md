@@ -14,7 +14,7 @@ A simple, responsive **Netflix Frontend Clone** built using only **HTML** and **
 
 ## 🚀 Live Demo
 
-[Click here to view the live demo](https://your-deployed-link.com)
+[Click here to view the live demo](https://netflix-frontend-4h83.onrender.com)
 
 ## 🛠️ Built With
 
@@ -50,7 +50,7 @@ A simple, responsive **Netflix Frontend Clone** built using only **HTML** and **
    open index.html
    ```
 
-3. Or use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in VS Code.
+3. Or use [Live Server](https://netflix-frontend-4h83.onrender.com) in VS Code.
 
 ## 💡 Future Improvements
 
@@ -65,8 +65,8 @@ This project is for educational purposes only. All content, logos, and branding 
 ## 🙋‍♂️ Author
 
 **Rushikesh Doke**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/yourusername)
+📧 rushikeshdoke1234@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rushikesh-doke-610696261/) | [GitHub](https://github.com/Rushikesh0864)
 
 ---
 
